@@ -6,7 +6,7 @@ This is a full-stack web application that fetches and displays case details from
 
 The backend is configured to scrape case information from the **Andhra Pradesh High Court**.
 
-* **URL**: `[https://hcservices.ecourts.gov.in/ecourtindiaHC/](https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=2&dist_cd=1&stateNm=Andhra%20Pradesh)`
+* **URL**: `https://hcservices.ecourts.gov.in/ecourtindiaHC/index_highcourt.php?state_cd=2&dist_cd=1&stateNm=Andhra%20Pradesh`
 
 ---
 
